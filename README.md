@@ -26,7 +26,7 @@ The dataset used is a simulated one
 
 ## File Descriptions <a name="files"></a>
 
-There is 1 notebook(Starbucks_Capstone_notebook) and a data folder with the data used to get to the results  here to showcase work related to the above questions.  . Markdown cells were used to assist in walking through the thought process for individual steps.  
+There is 1 notebook(Starbucks_Capstone_notebook) and a data.zip  with the data used to get to the results  here to showcase work related to the above questions.  . Markdown cells were used to assist in walking through the thought process for individual steps.  
 
 
 ## Results<a name="results"></a>

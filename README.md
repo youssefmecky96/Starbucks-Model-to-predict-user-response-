@@ -9,7 +9,15 @@
 
 ## Installation <a name="installation"></a>
 
-There should be no necessary libraries to run the code here beyond the Anaconda distribution of Python.  The code should run with no issues using Python versions 3.*.
+The code should run with no issues using Python versions 3.*.
+Libraries used are here
+pandas 
+numpy
+json
+math
+matplotlib
+seaborn
+scikitlearn
 ## Project Motivation<a name="motivation"></a>
 This project follows the CRISP-DM process 
 
@@ -18,10 +26,11 @@ The dataset used is a simulated one
 
 ## File Descriptions <a name="files"></a>
 
-There is 1 notebook here to showcase work related to the above questions.  . Markdown cells were used to assist in walking through the thought process for individual steps.  
+There is 1 notebook(Starbucks_Capstone_notebook) and a data folder with the data used to get to the results  here to showcase work related to the above questions.  . Markdown cells were used to assist in walking through the thought process for individual steps.  
 
 
 ## Results<a name="results"></a>
+
 
 The main findings of the code can be found at the post available [here](https://medium.com/@youssef.mecky96/i-will-make-them-an-offer-they-cant-refuse-bc2eb1035817).
 

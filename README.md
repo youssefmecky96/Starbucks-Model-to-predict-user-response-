@@ -19,10 +19,15 @@ matplotlib
 seaborn
 scikitlearn
 ## Project Motivation<a name="motivation"></a>
-This project follows the CRISP-DM process 
+Project Overview
+This data set contains simulated data that mimics customer behavior on the Starbucks rewards mobile app. Once every few days, Starbucks sends out an offer to users of the mobile app. An offer can be merely an advertisement for a drink or an actual offer such as a discount or BOGO (buy one get one free). Some users might not receive any offer during certain weeks.
 
-For this project, I was aiming to build a ML model to correctly predict user response to offers from starbucks.
-The dataset used is a simulated one 
+Not all users receive the same offer, and that is the challenge to solve with this data set. Here we have 3 simulated datasets from starbucks about offers to users, users info and events like transcations and giving out offers.
+
+Our Aim
+1-try to predict using a machine learning given a user's info and offer's info if that user is likely to use the offer and that could help figuring out which users should starbucks target
+2-find the most correlated features that affects offers getting completed from both the user side and the offer side
+3-to predict the total amount a person could spend on starbucks products given that person demographics
 
 ## File Descriptions <a name="files"></a>
 
